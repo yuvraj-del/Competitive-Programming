@@ -1,5 +1,5 @@
 """
-Problem: USACO 2016 December Contest, Bronze Problem 3. The Cow-Signal
+Problem: USACO 2022 US Open Contest, Bronze Problem 2. Counting Liars
 Date Completed: 11/25/2024
 """
 
