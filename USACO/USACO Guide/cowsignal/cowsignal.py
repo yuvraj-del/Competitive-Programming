@@ -1,3 +1,8 @@
+"""
+Problem: USACO 2016 December Contest, Bronze Problem 3. The Cow-Signal
+Date Completed: 5/31/2024
+"""
+
 read = open("cowsignal.in")
 open("cowsignal.out", "w")
 m, n, k = map(int, [i for i in read.readline().split()])
