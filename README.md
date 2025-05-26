@@ -5,7 +5,6 @@ This repository contains my solutions to competitive programming problems from p
 ## Languages Used
 
 - Python (main)
-- Java (occasionally, for experimentation)
 
 ## Goals
 
