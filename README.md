@@ -18,6 +18,10 @@ This repository contains my solutions to competitive programming problems from p
 - [LeetCode](https://leetcode.com/problemset/)
 - [USACO Guide](https://usaco.guide/dashboard)
 
+## Status
+
+This repository is a work in progress. I'm actively solving problems and adding solutions as I go.
+
 ---
 
 *This repository is a personal learning project. Contributions and feedback are welcome!*
