@@ -14,7 +14,6 @@ This repository contains my solutions to competitive programming problems from p
 
 ## Problem Sources
 
-- [Codeforces](https://codeforces.com/)
 - [LeetCode](https://leetcode.com/problemset/)
 - [USACO Guide](https://usaco.guide/dashboard)
 
